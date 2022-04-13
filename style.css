@@ -1,0 +1,17 @@
+#thetitle{
+    padding:20px;
+    width: 100%;
+    color: rgb(8, 200, 248);
+
+;
+}
+body{
+background-image: linear-gradient(black,rgb(8, 200, 248),black);
+font-family: 'Great Vibes', cursive;
+}
+#start{
+    width: 100px;
+    height: 50px; 
+    font-size: 25px;
+    background-color: rgb(8, 200, 248);
+}
